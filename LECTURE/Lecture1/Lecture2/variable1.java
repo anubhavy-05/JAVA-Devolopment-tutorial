@@ -1,4 +1,4 @@
-
+// QUISTION: Write a simple Java program that declares two integer variables, assigns them values, and prints their sum.
 
 public class variable1 {
     public static void main(String[] args) {
