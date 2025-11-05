@@ -1,3 +1,8 @@
+class Demo {
+    int defaultValue; // Instance variable → gets default value 0
+}
+
+public class variable5 {
 public static void main(String[] args) {
         Demo obj = new Demo();
         System.out.println("Default instance variable: " + obj.defaultValue);
@@ -11,3 +16,4 @@ public static void main(String[] args) {
         later = 20;
         System.out.println("Later initialization: " + later);
     }
+}
